@@ -2615,76 +2615,76 @@
             "description": "A small set of nodes I created for various numerical and text inputs.  Features image saver with ability to have JSON saved to separate folder, parameter collection nodes, two aesthetic scoring models, switches for text and numbers, and conversion of string to numeric and vice versa."
         },
         {
-            "author": "spacepxl",
+            "author": "spacel",
             "title": "ComfyUI-HQ-Image-Save",
             "id": "hq-image-save",
-            "reference": "https://github.com/spacepxl/ComfyUI-HQ-Image-Save",
+            "reference": "https://github.com/spacel/ComfyUI-HQ-Image-Save",
             "files": [
-                "https://github.com/spacepxl/ComfyUI-HQ-Image-Save"
+                "https://github.com/spacel/ComfyUI-HQ-Image-Save"
             ],
             "install_type": "git-clone",
             "description": "Add Image Save nodes for TIFF 16 bit and EXR 32 bit formats. Probably only useful if you're applying a LUT or other color corrections, and care about preserving as much color accuracy as possible."
         },
         {
-            "author": "spacepxl",
+            "author": "spacel",
             "title": "ComfyUI-Image-Filters",
             "id": "image-fitlers",
-            "reference": "https://github.com/spacepxl/ComfyUI-Image-Filters",
+            "reference": "https://github.com/spacel/ComfyUI-Image-Filters",
             "files": [
-                "https://github.com/spacepxl/ComfyUI-Image-Filters"
+                "https://github.com/spacel/ComfyUI-Image-Filters"
             ],
             "install_type": "git-clone",
             "description": "Image and matte filtering nodes for ComfyUI `image/filters/*`"
         },
         {
-            "author": "spacepxl",
+            "author": "spacel",
             "title": "ComfyUI-RAVE",
             "id": "rave",
-            "reference": "https://github.com/spacepxl/ComfyUI-RAVE",
+            "reference": "https://github.com/spacel/ComfyUI-RAVE",
             "files": [
-                "https://github.com/spacepxl/ComfyUI-RAVE"
+                "https://github.com/spacel/ComfyUI-RAVE"
             ],
             "install_type": "git-clone",
             "description": "Unofficial ComfyUI implementation of [a/RAVE](https://rave-video.github.io/)"
         },
         {
-            "author": "spacepxl",
+            "author": "spacel",
             "title": "ComfyUI-StyleGan",
             "id": "stylegan",
-            "reference": "https://github.com/spacepxl/ComfyUI-StyleGan",
+            "reference": "https://github.com/spacel/ComfyUI-StyleGan",
             "files": [
-                "https://github.com/spacepxl/ComfyUI-StyleGan"
+                "https://github.com/spacel/ComfyUI-StyleGan"
             ],
             "install_type": "git-clone",
             "description": "Basic support for StyleGAN2 and StyleGAN3 models."
         },
         {
-            "author": "spacepxl",
+            "author": "spacel",
             "title": "ComfyUI-Florence-2",
-            "id": "florence2-spacepxl",
-            "reference": "https://github.com/spacepxl/ComfyUI-Florence-2",
+            "id": "florence2-spacel",
+            "reference": "https://github.com/spacel/ComfyUI-Florence-2",
             "files": [
-                "https://github.com/spacepxl/ComfyUI-Florence-2"
+                "https://github.com/spacel/ComfyUI-Florence-2"
             ],
             "install_type": "git-clone",
             "description": "[a/https://huggingface.co/microsoft/Florence-2-large-ft](https://huggingface.co/microsoft/Florence-2-large-ft)\nLarge or base model, support for captioning and bbox task modes, more coming soon."
         },
         {
-            "author": "spacepxl",
+            "author": "spacel",
             "title": "ComfyUI-Depth-Pro",
-            "reference": "https://github.com/spacepxl/ComfyUI-Depth-Pro",
+            "reference": "https://github.com/spacel/ComfyUI-Depth-Pro",
             "files": [
-                "https://github.com/spacepxl/ComfyUI-Depth-Pro"
+                "https://github.com/spacel/ComfyUI-Depth-Pro"
             ],
             "install_type": "git-clone",
             "description": "Based on [a/https://github.com/apple/ml-depth-pro](https://github.com/apple/ml-depth-pro)"
         },
         {
-            "author": "spacepxl",
+            "author": "spacel",
             "title": "ComfyUI-LossTesting",
-            "reference": "https://github.com/spacepxl/ComfyUI-LossTesting",
+            "reference": "https://github.com/spacel/ComfyUI-LossTesting",
             "files": [
-                "https://github.com/spacepxl/ComfyUI-LossTesting"
+                "https://github.com/spacel/ComfyUI-LossTesting"
             ],
             "install_type": "git-clone",
             "description": "Basic utility for testing diffusion model loss across the timestep schedule. Should work with any native models that use ksampler. This could be used for comparing models, testing captions on an image, etc."
@@ -11335,12 +11335,12 @@
             "description": "EmbeddingsNameLoader, EmbendingList"
         },
         {
-            "author": "chenpx976",
+            "author": "chen976",
             "title": "ComfyUI-RunRunRun",
             "id": "runrunrun",
-            "reference": "https://github.com/chenpx976/ComfyUI-RunRunRun",
+            "reference": "https://github.com/chen976/ComfyUI-RunRunRun",
             "files": [
-                "https://github.com/chenpx976/ComfyUI-RunRunRun"
+                "https://github.com/chen976/ComfyUI-RunRunRun"
             ],
             "install_type": "git-clone",
             "description": "add http api http://127.0.0.1:8188/comfyui-run/run use in other llm project."
@@ -13077,7 +13077,7 @@
                 "https://github.com/yiwangsimple/florence_dw"
             ],
             "install_type": "git-clone",
-            "description": "Based on the original repository [a/https://github.com/spacepxl/ComfyUI-Florence-2](https://github.com/spacepxl/ComfyUI-Florence-2), the model loading and storage methods have been improved, and sd3 has been newly added with enhanced speed and accuracy."
+            "description": "Based on the original repository [a/https://github.com/spacel/ComfyUI-Florence-2](https://github.com/spacel/ComfyUI-Florence-2), the model loading and storage methods have been improved, and sd3 has been newly added with enhanced speed and accuracy."
         },
         {
             "author": "Tritant",
@@ -19986,10 +19986,10 @@
         },
         {
             "author": "WangPengxing",
-            "title": "ComfyUI WPX Nodes",
-            "reference": "https://github.com/WangPengxing/ComfyUI_WPX_Node",
+            "title": "ComfyUI W Nodes",
+            "reference": "https://github.com/WangPengxing/ComfyUI_W_Node",
             "files": [
-                "https://github.com/WangPengxing/ComfyUI_WPX_Node"
+                "https://github.com/WangPengxing/ComfyUI_W_Node"
             ],
             "install_type": "git-clone",
             "description": "A custom node collection for ComfyUI, offering enhanced image processing features."
@@ -20688,11 +20688,11 @@
             "description": "A Novel AI / SD-WebUI request node, support nai3/nai4, use NovelAI model in Your Comfyui."
         },
         {
-            "author": "dorpxam",
+            "author": "doram",
             "title": "ComfyUI-LTXVideoLoRA",
-            "reference": "https://github.com/dorpxam/ComfyUI-LTXVideoLoRA",
+            "reference": "https://github.com/doram/ComfyUI-LTXVideoLoRA",
             "files": [
-                "https://github.com/dorpxam/ComfyUI-LTXVideoLoRA"
+                "https://github.com/doram/ComfyUI-LTXVideoLoRA"
             ],
             "install_type": "git-clone",
             "description": "A set of custom nodes enabling LoRA support for LTX Video"
@@ -21445,6 +21445,16 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
+        },
+         {
+            "author": "hdfhssg",
+            "title": "ComfyUI_pxtool",
+            "reference": "https://github.com/hdfhssg/ComfyUI_pxtool",
+            "files": [
+                "https://github.com/hdfhssg/ComfyUI_pxtool"
+            ],
+            "install_type": "git-clone",
+            "description": "This is a custom plugin node for ComfyUI that modifies and extends some features from existing projects. The main implementations include:\n* Reproducing some features of the [a/Stable-Diffusion-Webui-Civitai-Helper](https://github.com/zixaphir/Stable-Diffusion-Webui-Civitai-Helper) project within ComfyUI\n* Implementing a feature to randomly generate related prompt words by referencing the [a/noob-wiki dataset](https://huggingface.co/datasets/Laxhar/noob-wiki/tree/main)"
         }
     ]
 }
